@@ -9,13 +9,7 @@ One of the key features of `extractTxtFromDocx` is that it lets you search for t
 
 ## Contributing
 
-Contributions to `extractTxtFromDocx` are welcome! To contribute, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes and commit them
-4. Push your changes to your fork
-5. Create a pull request
+If you find any issues with `extractTxtFromDocx` or would like to contribute to the project, please feel free to submit a pull request or open an issue on the Github repository.
 
 ## License
 
